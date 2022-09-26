@@ -1,10 +1,10 @@
-# Made by 0sir1ss @ https://github.com/0sir1ss/Carbon
+# Made by 0sir1ss @ https://github.com/trhacknon/Carbon
 import ast, re, random, io, tokenize, os, sys, platform, math
 
 is_windows = True if platform.system() == "Windows" else False
 
 if is_windows:
-    os.system("title Carbon @ github.com/0sir1ss/Carbon")
+    os.system("title Carbon @ github.com/trhacknon/Carbon")
 
 def clear():
     if is_windows:
